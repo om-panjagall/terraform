@@ -6,4 +6,4 @@ resource "aws_s3_bucket" "om_panjagall" {
     Name        = "My bucket"
     Environment = "Dev"
   }
-}
+} 
