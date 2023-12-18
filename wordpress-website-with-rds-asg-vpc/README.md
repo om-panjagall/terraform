@@ -1,4 +1,4 @@
-Terraform configuration code for to create Multi-Service Web Application Deployment with Terraform
+**Terraform configuration code for to create Multi-Service Web Application Deployment with Terraform**
 
 Objective:
 Design and deploy a highly available web application on AWS using Terraform. The application
@@ -24,6 +24,7 @@ open and the server is hardened.
 - Configuration:
 - Security: Only allow database connections from the WordPress server.
 - Regular backups and performance tuning as necessary.
+
 Deployment Steps:
 1. MySQL Server Setup:
 - Install MySQL on Machine 2.
