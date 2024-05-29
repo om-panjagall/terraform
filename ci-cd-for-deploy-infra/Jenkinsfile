@@ -1,0 +1,14 @@
+pipeline{
+    agent any
+    environment{
+        AWS_CRED=
+    }
+
+    stages{
+        stage('Checkout code from repo'){
+            steps{
+                
+            }
+        }
+    }
+}  
